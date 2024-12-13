@@ -15,7 +15,8 @@ Originally from Ireland, I bring a blend of curiosity and dedication to my work 
 ## 🛠️ Tech Stack  
 - **Frontend**: Angular, Storybook  
 - **Backend**: Java Spring Boot, REST APIs  
-- **Tools & Technologies**: SQL, SwaggerHub, Karate  
+- **Languages**: Python, C#, SQL  
+- **Tools & Technologies**: SwaggerHub, Karate  
 
 ---
 
