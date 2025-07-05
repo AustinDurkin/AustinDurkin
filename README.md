@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Austin!  
 
 ## 🚀 About Me  
-- 🔧 **T-Shaped Engineer**: Broad expertise with a strong focus on delivering impactful solutions.  
 - 🏋️‍♂️ Passionate about **weighted calisthenics** and Brazilian Jiu Jitsu.
 
 ---
